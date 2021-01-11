@@ -1,0 +1,12 @@
+<html>
+<title> Experts Team</title>
+Expert Team
+<body>
+<form method="POST" action="expert.php">
+<br/>name:<input type="text" name="name">
+<br/>no:<input type="text" name="no">
+<br/>mail:<input type="text" name="mail">
+<br/><input type="submit" name="save">
+</form>
+</body>
+</html>

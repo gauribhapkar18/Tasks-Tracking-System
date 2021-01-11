@@ -1,0 +1,2 @@
+table{border:border-collapse;}
+td{border:2px solid black;}
